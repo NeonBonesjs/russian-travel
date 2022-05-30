@@ -1,8 +1,8 @@
-.place__paragraph_margin{
+.place__paragraph_margin_top{
   margin-top: 26px;
 }
 @media screen and (max-width:1023px) {
-  .place__paragraph_margin{
+  .place__paragraph_margin_top{
     margin-top: 25px;
   }
 }
