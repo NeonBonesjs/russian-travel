@@ -1,1 +1,22 @@
-
+.page__place {
+  margin-bottom: 80px;
+}
+.page__place:last-of-type{
+  margin-bottom: 92px;
+}
+@media screen and (max-width:1023px) {
+  .page__place{
+    margin-bottom: 73px;
+  }
+  .page__place:last-of-type{
+    margin-bottom: 90px;
+  }
+}
+@media screen and (max-width:767px) {
+  .page__place{
+    margin-bottom: 50px;
+  }
+  .page__place:last-of-type{
+    margin-bottom: 66px;
+  }
+}
