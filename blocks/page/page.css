@@ -4,4 +4,6 @@
   color: #FFF;
   min-width: 320px;
   margin: 0 auto;
+  -webkit-font-smoothing: antialiased; 
+  -moz-osx-font-smoothing: grayscale; 
 }
