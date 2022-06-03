@@ -1,6 +1,7 @@
 .intro {
   padding: 0 0 0 11.56%;
   max-width: 690px;
+  align-self: flex-start;
 }
 @media screen and (max-width:1279px) {
   .intro{
