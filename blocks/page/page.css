@@ -6,4 +6,5 @@
   margin: 0 auto;
   -webkit-font-smoothing: antialiased; 
   -moz-osx-font-smoothing: grayscale; 
+  max-width:1280px;
 }
