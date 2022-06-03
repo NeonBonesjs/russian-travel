@@ -9,6 +9,8 @@
 .place__paragraph:last-child{
   margin-top: 26px;
 }
+.place__paragraph:first-child{
+  margin-top: 0;
 @media screen and (max-width:1023px) {
   .place__paragraph{
     font-size: 16px;
