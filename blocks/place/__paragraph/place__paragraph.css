@@ -9,7 +9,7 @@
 .place__paragraph:last-child{
   margin-top: 26px;
 }
-.place__paragraph:nth-last-of-type(1){
+.place__paragraph:first-child{
   margin-top: 0;
 }
 @media screen and (max-width:1023px) {
