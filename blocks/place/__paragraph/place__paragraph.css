@@ -15,7 +15,7 @@
     line-height: 163%;
   }
   .place__paragraph:first-child{
-  margin-bottom: 25px;
+    margin-bottom: 25px;
   }
 }
 @media screen and (max-width:767px) {
