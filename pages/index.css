@@ -1,5 +1,6 @@
 @import url(../vendor/normalize.css);
 @import url(../vendor/fonts/fonts.css);
+@import url(../blocks/root/root.css);
 @import url(../blocks/cover/cover.css);
 @import url(../blocks/footer/footer.css);
 @import url(../blocks/header/header.css);
@@ -9,6 +10,7 @@
 @import url(../blocks/photo-grid/photo-grid.css);
 @import url(../blocks/place/place.css);
 @import url(../blocks/places/places.css);
+@import url(../blocks/root/__page/root__page.css);
 @import url(../blocks/cover/__container/cover__container.css);
 @import url(../blocks/cover/__subtitle/cover__subtitle.css);
 @import url(../blocks/cover/__title/cover__title.css);
