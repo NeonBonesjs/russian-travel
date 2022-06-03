@@ -1,1 +1,13 @@
-
+.page__footer {
+  margin-top: 92px;
+}
+@media screen and (max-width:1023px) {
+  .page__footer{
+    margin-top: 88px;
+  }
+}
+@media screen and (max-width:767px) {
+  .page__footer{
+    margin-top: 64px;
+  }
+}
